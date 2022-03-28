@@ -1,5 +1,7 @@
 <html>
 <body>
   <h1> Welcome to KMIT <h1>
+<h2> we are practicing git commands <h2>
+<p> this is to show differences into the file </p>
 </body>
 </html>
